@@ -85,7 +85,7 @@ Atribut utama:
 ## 🛠️ Tools & Teknologi
 
 * Python (Pandas, NumPy, Matplotlib)
-* Jupyter Notebook
+* Google Colab
 * Power BI
 * Git & GitHub
 
